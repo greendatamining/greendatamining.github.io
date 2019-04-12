@@ -61,3 +61,6 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 * Niklas Lavesson, Jönköping University
 * Håkan Grahn, Blekinge Institute of Technology
 * Emiliano Casalicchio, Sapienza University of Rome
+
+## Program Committee
+Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Emiliano Casalicchio, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues, Elena Tsiporkova

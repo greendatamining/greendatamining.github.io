@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-subtitle: 
+subtitle:
 permalink: /
 feature-img: "assets/img/workshop/wurzburg.jpg"
 ---
@@ -99,6 +99,10 @@ feature-img: "assets/img/workshop/wurzburg.jpg"
 		<li> Håkan Grahn, Blekinge Institute of Technology</li>
 		<li> Emiliano Casalicchio, Sapienza University of Rome</li>
 	</ul>
+
+  <h3>Program Committee</h3>
+  Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Emiliano Casalicchio, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues, Elena Tsiporkova
+
 
   <!-- </div> -->
 
