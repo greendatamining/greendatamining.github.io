@@ -2,7 +2,7 @@
 layout: page
 title: Submission
 permalink: /submission/
-feature-img: "assets/img/workshop/dublin.jpg"
+feature-img: "assets/img/workshop/wurzburg.jpg"
 ---
 
 <h1 style="text-align: center">Submission</h1>
@@ -12,7 +12,7 @@ There are two types of invited submissions:
 
 * Full paper: limited to 16 pages (including references)
 * Short or position paper: Short papers and position papers are limited to 6 pages (including references)
-* Deadline for submission: **Thursday July 12, 2018 (Extended)** 
+* Deadline for submission: **Friday, June 7, 2019**
 
 
 ## Submission Process
@@ -31,7 +31,7 @@ Before completing the submission, please make sure you have specified all your c
 
 ## Paper Format
 Papers must be written in English and formatted according to the Springer LNCS guidelines.
-Author instructions, style files and copyright form can be downloaded here: 
+Author instructions, style files and copyright form can be downloaded here:
 <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 
 Overlength papers will be rejected without review (papers with smaller page margins

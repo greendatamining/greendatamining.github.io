@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-feature-img: "assets/img/workshop/dublin.jpg"
+feature-img: "assets/img/workshop/wurzburg.jpg"
 ---
 
 <h1 style="text-align: center">Schedule</h1>

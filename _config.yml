@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://greendatamining.github.io"
 title: Green Data Mining # site's title
-description: "International Workshop on Energy Efficient Data Mining and Knowledge Discovery" # used by search engines
+description: "International Workshop on Energy Efficient Scalable Data Mining and Machine Learning" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -16,9 +16,9 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>International Workshop on Energy Efficient Data Mining and Knowledge Discovery</p>
-  header_text_feature_image: assets/img/workshop/dublin.jpg
-  footer_text: ©2018 GreenDataMining
+     <p>International Workshop on Energy Efficient Scalable Data Mining and Machine Learning</p>
+  header_text_feature_image: assets/img/workshop/wurzburg.jpg
+  footer_text: ©2019 GreenDataMining
 
 
 
@@ -47,7 +47,7 @@ theme_settings:
   vimeo:
   wordpress:
   youtube:
-  
+
   # Sharing options
   share_buttons:
     facebook: false
@@ -61,19 +61,19 @@ theme_settings:
     wordpress:
     email: false
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  
+
   special_page:
-    search: 
+    search:
       icon: "search" # Assuming page link and icon are the same
       enabled: false
     tags:
       icon: "tags"
       enabled: false
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -95,8 +95,8 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-  
-  
+
+
 # PAGINATION
 #paginate: 5
 #paginate_path: "blog/page:num"
@@ -124,12 +124,6 @@ header_pages:
  - title: 'Home'
    hide: false
    url: '/'
- - title: 'Keynotes'
-   hide: false
-   url: '/keynote/'
- - title: 'Schedule'
-   hide: false
-   url: '/schedule/'
  - title: 'CFP'
    hide: false
    url: '/cfp/'
@@ -142,3 +136,6 @@ header_pages:
  - title: 'Organization'
    hide: false
    url: '/organization/'
+ - title: 'GDM 2018'
+   hide: false
+   url: 'https://greendatamining.github.io/greendatamining18/'
