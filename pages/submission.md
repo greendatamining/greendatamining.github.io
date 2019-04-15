@@ -16,18 +16,7 @@ There are two types of invited submissions:
 
 
 ## Submission Process
-Electronic submissions will be handled via Microsoft CMT: <a href="https://cmt3.research.microsoft.com/GDM2018">https://cmt3.research.microsoft.com/GDM2018
-
-To submit a paper:
-
- * Create an account and Log in to conference CMT submission site.
-Please note that user accounts in each CMT conference are independent of other conferences,
-so you will need to create a new account.
- * Create a New Paper submission.
- * Complete the submission form by providing title, authors, one primary subject area,
-any number of secondary subject areas and a short abstract. The manuscript must be uploaded in pdf format.
-
-Before completing the submission, please make sure you have specified all your conflicts of interest.
+Electronic submissions will be handled via EasyChair: <a href="https://easychair.org/conferences/?conf=greendatamining2019">https://easychair.org/conferences/?conf=greendatamining2019
 
 ## Paper Format
 Papers must be written in English and formatted according to the Springer LNCS guidelines.
