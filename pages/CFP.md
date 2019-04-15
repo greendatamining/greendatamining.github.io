@@ -31,6 +31,7 @@ Topics of interest include, but are not limited to:
 * Domain-specific architectures for machine learning and/or data mining
 * Internet of Things (IoT) and/or embedded systems for machine learning
 * Edge computing
+* Energy and performance benchmarking and analysis
 * Energy Efficiency in Information Retrieval Systems
 * Machine learning Systems
 * Hardware accelerators for Deep Learning
