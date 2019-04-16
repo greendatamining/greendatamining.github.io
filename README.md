@@ -4,7 +4,7 @@
 Co-located with ECML-PKDD 2019.    
 * Conference Dates: September 16-20, 2019  
 * Workshop Date: September 16, 2019 Würzburg, Germany     
-* Website: [greendatamining.github.io](greendatamining.github.io)    
+* Website: [https://greendatamining.github.io/](greendatamining.github.io)    
 
 # Call For Papers
 
