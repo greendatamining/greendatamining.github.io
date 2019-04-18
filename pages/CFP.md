@@ -11,7 +11,7 @@ feature-img: "assets/img/workshop/wurzburg.jpg"
 Co-located with ECML-PKDD 2019.    
 Conference Dates: September 16-20, 2019  
 Workshop Date: September 16, 2019 Würzburg, Germany     
-Website: [greendatamining.github.io](greendatamining.github.io)    
+Website: [greendatamining.github.io](https://greendatamining.github.io)    
 
 
 ## Scope
