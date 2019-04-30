@@ -3,7 +3,7 @@ layout: home
 title: Home
 subtitle:
 permalink: /
-feature-img: "assets/img/workshop/wurzburg.jpg"
+feature-img: "assets/img/workshop/green3.jpg"
 ---
 <h1 style="text-align: center">Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning</h1>
 

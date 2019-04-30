@@ -2,7 +2,7 @@
 layout: page
 title: Submission
 permalink: /submission/
-feature-img: "assets/img/workshop/wurzburg.jpg"
+feature-img: "assets/img/workshop/green3.jpg"
 ---
 
 <h1 style="text-align: center">Submission</h1>
