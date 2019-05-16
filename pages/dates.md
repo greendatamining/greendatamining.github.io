@@ -12,4 +12,4 @@ feature-img: "assets/img/workshop/green3.jpg"
 &nbsp;&nbsp;&nbsp;  Workshop paper camera-ready deadline: Monday, July 26, 2019   
 &nbsp;&nbsp;&nbsp;  Workshop date: Monday, September 16, 2019   
 
-&nbsp;&nbsp;&nbsp;  All deadlines expire on 23:59 AOE (Anywhere On Earth
+&nbsp;&nbsp;&nbsp;  All deadlines expire on 23:59 AOE (Anywhere On Earth)
