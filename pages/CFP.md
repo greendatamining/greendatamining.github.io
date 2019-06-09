@@ -40,7 +40,7 @@ Topics of interest include, but are not limited to:
 
 ##  Key Dates
 
-* Workshop paper submission deadline: <strong>  Friday, June 7, 2019</strong>
+* Workshop paper submission deadline:  <strong> <strike> Friday, June 7, 2019</strike></strong><strong> Friday, June 21, 2019 </strong>
 * Workshop paper acceptance notification: Friday, July 19, 2019
 * Workshop paper camera-ready deadline: Monday, July 26, 2019
 
