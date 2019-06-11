@@ -18,8 +18,11 @@ Website: [greendatamining.github.io](https://greendatamining.github.io)
 
 This workshop aims to bring together people from different areas and backgrounds in data mining and machine learning that have a common interest in scalability, edge computing, and energy efficiency.
 These fields include, but are not limited to: deep learning, Internet of Things (IoT), scalable machine learning, systems for machine learning, information retrieval systems, and stream mining.
-The goal is to provide a venue where researchers with heterogeneous backgrounds can debate and discuss challenges related to building energy efficient machine learning algorithms, systems, and hardware platforms.
-We accept original work, already completed, or in progress. Position papers are also welcomed.
+The goal is to provide a venue where researchers with heterogeneous backgrounds can debate and discuss challenges related to building energy efficient machine learning algorithms, systems, and hardware platforms.  
+
+We accept original work, already completed, or in progress. Position papers are also welcomed.  
+**All accepted papers will be published in ECML-PKDD 2019 Workshop proceedings.**
+
 
 ## Topics
 

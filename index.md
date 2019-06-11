@@ -71,6 +71,10 @@ feature-img: "assets/img/workshop/green3.jpg"
 
 	We accept original work, already completed, or in progress.
 	Position papers are also considered.
+  <br /><br />
+  <strong>All accepted papers will be published in ECML-PKDD 2019 Workshop proceedings.</strong>
+
+
 	<br /><br />
 
 	<h3> Key Dates </h3>
