@@ -20,8 +20,8 @@ This workshop aims to bring together people from different areas and backgrounds
 These fields include, but are not limited to: deep learning, Internet of Things (IoT), scalable machine learning, systems for machine learning, information retrieval systems, and stream mining.
 The goal is to provide a venue where researchers with heterogeneous backgrounds can debate and discuss challenges related to building energy efficient machine learning algorithms, systems, and hardware platforms.  
 
-We accept original work, already completed, or in progress. Position papers are also welcomed.  
-**All accepted papers will be published in ECML-PKDD 2019 Workshop proceedings.**
+We accept original work, already completed, or in progress. Position papers and extended abstracts are also welcomed.  
+**All accepted papers (except for extended abstracts) will be published in ECML-PKDD 2019 Workshop proceedings.**
 
 
 ## Topics
@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to:
 
 ##  Key Dates
 
-* Workshop paper submission deadline:  <strong> <strike> Friday, June 7, 2019</strike></strong><strong> Friday, June 21, 2019 </strong>
+* Workshop paper submission deadline:  <strong> <strike> Friday, June 7, 2019</strike></strong><strong> Monday, July 1, 2019 </strong>
 * Workshop paper acceptance notification: Friday, July 19, 2019
 * Workshop paper camera-ready deadline: Monday, July 26, 2019
 

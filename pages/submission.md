@@ -7,14 +7,15 @@ feature-img: "assets/img/workshop/green3.jpg"
 
 <h1 style="text-align: center">Submission</h1>
 ## Proceedings
-**All accepted papers will be published in ECML-PKDD 2019 Workshop proceedings.**
+**All accepted papers (except for extended abstracts) will be published in ECML-PKDD 2019 Workshop proceedings.**
 
 ## Submission
-There are two types of invited submissions:
+There are **three** types of invited submissions:
 
 * Full paper: limited to 16 pages (including references)
 * Short or position paper: Short papers and position papers are limited to 6 pages (including references)
-* Deadline for submission: **Friday, June 21, 2019**
+* Extended abstracts: limited to 4 pages. Extended abstracts will not be considered for publication in the workshop proceedings.
+* Deadline for submission: **Monday, July 1, 2019**
 
 Electronic submissions will be handled via EasyChair: <a href="https://easychair.org/conferences/?conf=greendatamining2019">https://easychair.org/conferences/?conf=greendatamining2019
 
