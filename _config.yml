@@ -127,6 +127,9 @@ header_pages:
  - title: 'Keynotes'
    hide: false
    url: '/keynote/'
+ - title: 'Schedule'
+   hide: false
+   url: '/schedule/'
  - title: 'CFP'
    hide: false
    url: '/cfp/'

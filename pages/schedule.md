@@ -6,7 +6,7 @@ feature-img: "assets/img/workshop/green3.jpg"
 ---
 
 <h1 style="text-align: center">Schedule</h1>
-***Monday, September 16***  
+***Monday, September 16, 2019***  
 
 **Room 1.002** (ECML-PKDD 2019, Hubland campus of the University of Würzburg)
 
