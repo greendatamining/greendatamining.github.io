@@ -49,6 +49,20 @@ feature-img: "assets/img/workshop/green3.jpg"
     </div>
 </div>
 
+<div style="float:left; width: 100%; margin-top: 20px;">
+    <div style="width:50%; float:left">
+        <img src="assets/img/rikard.jpg" alt="Rikard König" style="width:100%; padding-left: 0px;">
+    </div>
+    <div>
+        <div class="speaker_name">
+            <a href="https://greendatamining.github.io/keynote/#rikard">Rikard König</a>
+            <!-- <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a> -->
+        </div>
+        <div class="speaker_aff">Ekkono Solutions</div>
+    </div>
+</div>
+
+
 	<!-- Erich -->
     <!-- <div>
     	<div style="width:50%; float:left">
