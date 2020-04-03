@@ -18,7 +18,6 @@ There are **two** types of invited submissions:
 
 
 Electronic submissions will be handled via EasyChair: TBA
-[//]: # <a href="https://easychair.org/conferences/?conf=greendatamining2019">https://easychair.org/conferences/?conf=greendatamining2019
 
 ## Paper Format
 Papers must be written in English and formatted according to the Springer LNCS guidelines.

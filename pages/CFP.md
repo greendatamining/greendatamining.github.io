@@ -51,7 +51,7 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
 ## Workshop Chairs
 
-* Eva García-Martín, Blekinge Institute of Technology
+* Eva García-Martín, Ekkono Solutions
 * Albert Bifet, Telecom-ParisTech
 * Crefeda Faviola Rodrigues, University of Manchester
 * Heitor Murilo Gomes, Telecom-ParisTech

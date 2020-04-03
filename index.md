@@ -123,7 +123,7 @@ learning from a broader perspective.<br />
 
 	<h3> Workshop Chairs</h3>
 	   <ul>
-		<li> Eva García-Martín, Blekinge Institute of Technology</li>
+		<li> Eva García-Martín, Ekkono Solutions</li>
 		<li> Albert Bifet, Telecom-ParisTech</li>
     <li> Crefeda Faviola Rodrigues, University of Manchester  </li>
 		<li> Heitor Murilo Gomes, Telecom-ParisTech</li>

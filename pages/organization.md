@@ -9,8 +9,8 @@ feature-img: "assets/img/workshop/green3.jpg"
 
 ## General chairs
 
-&nbsp;&nbsp;&nbsp;**Eva García-Martín** Blekinge Institute of Technology
-<span style="font-family:courier; color:#10872F">&nbsp;eva.garcia.martin[at]bth.se</span> (main contact)   
+&nbsp;&nbsp;&nbsp;**Eva García-Martín**, Ekkono Solutions
+<span style="font-family:courier; color:#10872F">&nbsp;eva[at]ekkono.ai</span> (main contact)   
 &nbsp;&nbsp;&nbsp;**Albert Bifet**, Telecom-ParisTech  
 &nbsp;&nbsp;&nbsp;**Crefeda Faviola Rodrigues**,  University of Manchester  
 &nbsp;&nbsp;&nbsp;**Heitor Murilo Gomes**, Telecom-ParisTech  
@@ -22,16 +22,10 @@ feature-img: "assets/img/workshop/green3.jpg"
 NTENT  
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**,
  Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Veselka Boeva**,
- Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Elena Tsiporkova**,
- Sirris (Collective Center for the Belgian technological industry)  
-&nbsp;&nbsp;&nbsp; **Niklas Lavesson**,
-Jönköping University  
 &nbsp;&nbsp;&nbsp; **Håkan Grahn**,
 Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Emiliano Casalicchio**,
-Sapienza University of Rome  
+&nbsp;&nbsp;&nbsp; **Rikard König**, Ekkono Solutions  
+&nbsp;&nbsp;&nbsp; **Henrik Linusson**, Ekkono Solutions  
 
 ## Program Committee
 
@@ -39,10 +33,9 @@ Sapienza University of Rome
 &nbsp;&nbsp;&nbsp; **Ricardo Baeza-Yates**, NTENT  
 &nbsp;&nbsp;&nbsp; **Albert Bifet**, Telecom-ParisTech   
 &nbsp;&nbsp;&nbsp; **Veselka Boeva**, Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Emiliano Casalicchio**, Sapienza University of Rome  
 &nbsp;&nbsp;&nbsp; **Pierre Dagnely**, Sirris  
 &nbsp;&nbsp;&nbsp; **Ana Freire**, Universitat Pompeu Fabra  
-&nbsp;&nbsp;&nbsp; **Eva García-Martín**, Blekinge Institute of Technology  
+&nbsp;&nbsp;&nbsp; **Eva García-Martín**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Håkan Grahn**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Niklas Lavesson**, Jönköping University  
 &nbsp;&nbsp;&nbsp; **Nuno Moniz,** University of Porto  
@@ -50,7 +43,6 @@ Sapienza University of Rome
 &nbsp;&nbsp;&nbsp; **Heitor Murilo Gomes**, Telecom-ParisTech   
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Crefeda Faviola Rodrigues**,  University of Manchester  
-&nbsp;&nbsp;&nbsp; **Elena Tsiporkova**, Sirris  
 
 ## Web and Social Media Chair
 &nbsp;&nbsp;&nbsp; **Sylvie Pabion Martin**, Motorpress Ibérica  
