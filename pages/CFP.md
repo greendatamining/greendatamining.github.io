@@ -7,10 +7,10 @@ feature-img: "assets/img/workshop/green3.jpg"
 <h1 style="text-align: center">Call For Papers</h1>
 
 ## Green Data Mining
-2nd International Workshop on Energy Efficient Scalable Data Mining and Machine Learning  
-Co-located with ECML-PKDD 2019.    
-Conference Dates: September 16-20, 2019  
-Workshop Date: September 16, 2019 Würzburg, Germany     
+3rd International Workshop on Energy Efficient Scalable Data Mining and Machine Learning  
+Co-located with ECML-PKDD 2020.
+Conference Dates: September 14-18, 2020
+Workshop Date: September 14, 2020 Ghent, Belgium (preliminary)
 Website: [greendatamining.github.io](https://greendatamining.github.io)    
 
 
@@ -34,18 +34,18 @@ Topics of interest include, but are not limited to:
 * Domain-specific architectures for machine learning and/or data mining
 * Internet of Things (IoT) and/or embedded systems for machine learning
 * Edge computing
-* Energy and performance benchmarking and analysis
 * Energy Efficiency in Information Retrieval Systems
 * Machine learning Systems
 * Hardware accelerators for Deep Learning
-* Distributed data stream mining
 * Distributed algorithms for machine learning and data mining
+* Environmental Data Science applications
+* Climat Change impact
 
 ##  Key Dates
 
-* Workshop paper submission deadline:  <strong> <strike> Friday, June 7, 2019</strike></strong><strong> Monday, July 1, 2019 </strong>
-* Workshop paper acceptance notification: Friday, July 19, 2019
-* Workshop paper camera-ready deadline: Monday, July 26, 2019
+* Workshop paper submission deadline: <strong> Tuesday, July 9, 2020 </strong>
+* Workshop paper acceptance notification: Monday, July 20, 2020
+* Workshop paper camera-ready deadline: Monday, August 3, 2020
 
 All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
@@ -58,13 +58,11 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
 ## Steering Committee
 
-* Ricardo Baeza-Yates, NTENT
+* Ricardo Baeza-Yates, NTENT and Universitet Pompeu Fabra
 * Christian Nordahl,  Blekinge Institute of Technology
-* Veselka Boeva,  Blekinge Institute of Technology
-* Elena Tsiporkova, Sirris (Collective Center for the Belgian technological industry)
-* Niklas Lavesson, Jönköping University
 * Håkan Grahn, Blekinge Institute of Technology
-* Emiliano Casalicchio, Sapienza University of Rome
+* Rikard König, Ekkono Solutions
+* Henrik Linusson, Ekkono Solutions
 
 ## Program Committee
-Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Emiliano Casalicchio, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues, Elena Tsiporkova
+Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues
