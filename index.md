@@ -5,11 +5,10 @@ subtitle:
 permalink: /
 feature-img: "assets/img/workshop/green3.jpg"
 ---
-<h1 style="text-align: center">Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning</h1>
+<h1 style="text-align: center">Third International Workshop on Energy Efficient Scalable Data Mining and Machine Learning</h1>
 
  <p style="text-align:center; font-weight:bold">Co-located with <a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2019</span></a> <br />
-	September 16, 2019 - Würzburg, Germany <br />
-  Room 1.002 (Hubland campus of the University of Würzburg)
+	September 14, 2020 - Ghent, Belgium <br />
 
 
 </p>
