@@ -44,9 +44,9 @@ Topics of interest include, but are not limited to:
 
 ##  Key Dates
 
-* Workshop paper submission deadline: <strong> Tuesday, July 9, 2020 </strong>
-* Workshop paper acceptance notification: Monday, July 20, 2020
-* Workshop paper camera-ready deadline: Monday, August 3, 2020
+* Paper submission deadline: <strong> Tuesday, July 9, 2020 </strong>
+* Paper acceptance notification: Monday, July 20, 2020
+* Paper camera-ready deadline: Monday, August 3, 2020
 
 All deadlines expire on 23:59 AOE (Anywhere On Earth).
 

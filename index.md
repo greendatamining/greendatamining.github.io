@@ -75,9 +75,9 @@ learning from a broader perspective.<br />
 
 	<h3> Key Dates </h3>
 	<ul>
-	 <li> Workshop paper submission deadline:  <strong> Tuesday, June 9, 2020 </strong></li>
-	 <li> Workshop paper acceptance notification:  Monday, July 20, 2020</li>
-	 <li> Workshop paper camera-ready deadline:  Monday, August 3, 2020</li>
+	 <li> Paper submission deadline:  <strong> Tuesday, June 9, 2020 </strong></li>
+	 <li> Paper acceptance notification:  Monday, July 20, 2020</li>
+	 <li> Paper camera-ready deadline:  Monday, August 3, 2020</li>
 	 <li> Workshop date: Monday, September 14, 2020 (preliminary) </li>
 	</ul>
 	All deadlines expire on 23:59 AOE (Anywhere On Earth).
