@@ -10,22 +10,32 @@ feature-img: "assets/img/workshop/dublin.jpg"
 September 10-14, 2018 - Dublin, Ireland </strong></span></br><br />
 <hr><br />
 <br />
-This workshop aims to bring together people from many different fields
-in machine learning and data mining that have a common interest in
-energy efficiency, energy aware computing, hardware accelerators,
-and embedded systems.<br />
+This workshop aims to bring together people from different areas and 
+backgrounds in data mining and machine learning that have a common 
+interest in energy efficiency, sustainability, and edge computing.<br />
 <br />
-These fields include, but are not limited to: deep learning,
-big data, Internet of Things (IoT), large-scale computing,
-stream mining, and distributed machine learning.<br />
+For the past years, the main concern in machine learning had been to 
+create highly accurate models, without considering the high computational 
+requirements involved. This has lead to a scenario where most of the 
+machine learning prediction is done in the cloud, incurring in security 
+concerns and increased latency.<br />
 <br />
-The goal is to provide a venue for researchers to present their work,
-exchange ideas, and discuss challenges related to energy-efficiency 
-in machine learning, data mining, and supporting hardware platforms, 
-and algorithms.
-We accept original work, already completed, or in progress.
-Position papers are also considered.
-<br /><br />
+However, there is an increasing trend in machine learning which focuses 
+on building models that are able to run in the edge. For instance, Google 
+has released the first speech recognition model running directly on the device, 
+improving latency and reducing energy consumed by the network connectivity. 
+Another example is TensorFlowLite, a powerful tool to deploy models on mobile 
+and IoT devices.<br />
+<br />
+The goal with this workshop is to promote green machine learning even further, 
+by creating a half-day workshop where researchers in different machine 
+learning and data mining areas can bring together their ideas, present them 
+in front of a heterogeneous crowd, and have interesting debates on how to 
+advance machine learning into a more scalable future. This edition includes 
+also applications of machine learning in areas re- lated to environmental data 
+science and climate change, to address the needs of a more sustainable machine 
+learning from a broader perspective.<br />
+<br />
 
 ## Key Dates
  * Workshop paper submission deadline: <strong>Monday, July 2, 2018</strong><
