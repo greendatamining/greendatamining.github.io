@@ -142,9 +142,9 @@ header_pages:
  - title: 'Organization'
    hide: false
    url: '/organization/'
- - title: 'GDM 2018'
+ - title: 'GDM 2019'
    hide: false
    url: 'https://greendatamining.github.io/greendatamining19/'
- - title: 'GDM 2019'
+ - title: 'GDM 2018'
    hide: false
    url: 'https://greendatamining.github.io/greendatamining18/'
