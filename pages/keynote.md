@@ -2,94 +2,150 @@
 layout: page
 title: Keynote Speaker
 permalink: /keynote/
-feature-img: "assets/img/workshop/wurzburg.jpg"
+feature-img: "assets/img/workshop/green3.jpg"
 ---
 <h1 style="text-align: center">Keynote Speakers</h1>
 
 <hr>
 <div>
         <div style="width:20%; float:left">
-			<img src="../assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; margin-bottom: 20px; padding-left: 0px">
+			<img src="../assets/img/KatharinaMorik.png" alt="Katharina Morik" style="width:100%; margin-bottom: 20px; padding-left: 0px">
 		</div>
 		<div>
-            <div class="speaker_name_inkeynote"><a id="nicola"></a>Nicola Tonellotto</div>
-            <div class="speaker_aff_inkeynote">National Research Council of Italy (ISTI)</div>
+            <div class="speaker_name_inkeynote"><a id="morik"></a>Katharina Morik</div>
+            <div class="speaker_aff_inkeynote">TU Dortmund University</div>
         </div>
     </div>
 
  <div style="clear:left;">
-<div class="keynote_title">Energy Efficiency in Large Scale Information Retrieval Systems</div>
+<div class="keynote_title">Machine Learning for Sustainability</div>
 
-<button class="collapsible">Abstract
+<!-- <button class="collapsible">Abstract -->
 	<hr>
 	<div class="abstract_context">
-	Web search engines perform distributed query processing on computer clusters composed by thousands of computers and hosted in large data centers. While data center facilities enable large-scale online services, they also raise economical and environmental concerns. Therefore, it is important to reduce the energy expenditure of data centers, as well as to reduce carbon dioxide emissions and the negative impact of the data centers on the environment.
+  In September 2015, the general assembly of the United Nations passed
+  17 goals for sustainability development that are to be reached until
+  2030. This is an extension of the millennium development goals
+  declaration from 2000. Since then, data analysis has contributed in
+  several ways to sustainability, particularly in earth and climate
+  science, in sustainable industrial production, and resource-efficient
+  transportation.
+<br /><br />
+  This talk will give a short overview of the data-driven approaches and then present some approaches in more detail.
+  Illustrating earth science, a novel method for gap filling in satellite images is presented.
+  Sustainability for industrial production is presented with an example in steel production.
+  The general view of resource-efficient computation is exemplified by Integer Markov Random Fields.
+  Although there are already many approaches, a lot of work still needs to be done for lifting the full potential of machine learning for sustainability development.
+
 	</div>
-</button>
-<div class="tocollapse">
-  A large part of the energy consumption of a data center could be accounted to inefficiencies in its cooling and power supply systems. However, search companies already adopt state-of-the art techniques to reduce the energy wastage of such systems, leaving little room for more improvements in those areas. Therefore, new approaches are necessary to mitigate the environmental impact and the energy expenditure of Web search engines. <br />
-  <br />
-  In this talk we will address the reduction of the energy consumption of computing resources to mitigate the energy expenditure and carbon footprint of a IR system. In particular, reducing the energy consumption of CPUs represents an attractive venue for Web search engines. Currently, CPU cores frequencies are typically managed by operating system components, called frequency governors. We will discuss how to delegate the CPU power management from the OS frequency governors to the query processing application. Such IR system-specific governors can reduce up to 24% a server power consumption, with only limited (but uncontrollable) drawbacks in the quality of search results with respect to a system running at maximum CPU frequency.
-	<br /><br />
-  Since users can hardly notice response times that are faster than their expectations we advise that Web search engine should not process queries faster than user expectations and, consequently, we will present the Predictive Energy Saving Online Scheduling (PESOS) algorithm, to select the most appropriate CPU frequency to process a query by its deadline, on a per-core basis. PESOS can reduce the CPU energy consumption of a query processing server from 24% up to 48% when compared to an high performance system running at maximum CPU core frequency. To conclude, we will compare the PESOS performance w.r.t. an industry-level baseline, called PEGASUS, on a realistic simulation of a distributed Web search engine. Our results show that PESOS can reduce the CPU energy consumption of a distributed WSE by up to 18% with respect to PEGASUS, while providing query response times which are in line with user expectations.
 
-  </div>
 
-<!-- <button class="collapsible">Bio</button>
-<div class="tocollapse">
-<p> -->
-<br />
+<br /> <br />
+
 <div class="bio">
-<span class="bio_title"> Bio </span>
+<button class="collapsible">Bio
+
+<!-- <span class="bio_title">  </span> -->
 <hr>
 <div class="bio_context">
-Nicola Tonellotto <a href="http://pomino.isti.cnr.it/~khast/">(http://pomino.isti.cnr.it/~khast/)</a> is a researcher at National Research Council of Italy. He received his Ph.D. from the Information Engineering Department of the University of Pisa in 2008. His main research interests include Cloud computing and Web information retrieval. He published over 50 papers in journals and proceedings of international conferences. He received the Best Paper Award at ACM SIGIR in 2015.
+  Katharina Morik received her doctorate from the University of Hamburg in 1981 and her habilitation from the TU Berlin in 1988. In 1991, she established the chair of Artificial Intelligence at the TU Dortmund. Currently, her research interest is in learning under resource restrictions, e.g., in astrophysics, industry 4.0, or mobility.
+   <br /> <br />
+  In 2011, she acquired the Collaborative Research Center SFB 876 "Providing Information by Resource-Constrained Data Analysis” and is its spokeswoman since then.
+  She is a director of the Competence Center for Machine Learning Rhein Ruhr (ML2R) and coordinator of the four German competence centers for machine learning.
 </div>
+</button>
+
+<div class="tocollapse">
+  The globally successful data analysis tool RapidMiner was developed at her lab.
+  She is a leader of the working group "Technological Pioneers" of the German platform "Learning Systems and Data Science”.
+  <br /> <br />
+  She is the author of more than 200 publications in prestigious journals and conferences. Her focus on sustainability is seen, e.g., in the workshops SustainKDD at KDD 2011 and 2012 as well as the special issue in Data Mining and Knowledge Discovery 2012 and the coediting with Jörg Lässig and Kristian Kersting the book “Computational Sustainability” in 2016. She was a member of the editorial board of the journal Machine Learning and is currently one of the editors of the international journal Data Mining and Knowledge Discovery. She was a founding member, Program Chair and Vice Chair of the conference series IEEE International Conference on Data Mining (ICDM), Senior Chair of KDD, Area Chair of ICML, and Program Chair of ECML PKDD.
+  <br /> <br />
+  Prof. Morik has been a member of the Academy of Technical Sciences since 2015 and of the North Rhine-Westphalian Academy of Sciences and Arts since 2016.
+
+  </div>
 </div>
-<!-- </p>
-</div> -->
 
 <br /><br /><br />
 <div>
-        <div style="width:20%; float:left">
-			<img src="../assets/img/elsen.jpg" alt="Erich Elsen" style="width:100%; margin-bottom: 20px; padding-left: 0px">
+<div style="width:20%; float:left">
+<img src="../assets/img/PaulWhatmough.jpg" alt="Paul Whatmough" style="width:100%; margin-bottom: 20px; padding-left: 0px">
 		</div>
 		<div>
-            <div class="speaker_name_inkeynote"><a id="erich"></a>Erich Elsen
-  			<!-- <span class="fa-stack fa-lg">
-            <i class="fa fa-twitter fa-stack-1x fa-inverse" style="font-size:0.8em; color:#10872F"></i>
-        	</span> -->
+      <div class="speaker_name_inkeynote"><a id="paul"></a>Paul Whatmough (Online)
 			</div>
-            <div class="speaker_aff_inkeynote">Google Brain</div>
+            <div class="speaker_aff_inkeynote">Arm ML Research Lab and Harvard University</div>
         </div>
     </div>
 
  <div style="clear:left;">
-<div class="keynote_title">Fast and Efficient Auto-Regressive Inference</div>
+<div class="keynote_title">Algorithm-Hardware Co-Design for Energy-Efficient Neural Network Inference</div>
 
-<button class="collapsible">Abstract
 	<hr>
 	<div class="abstract_context">
-		Sequential models achieve state-of-the-art results in audio, visual and textual domains with respect to both estimating the data distribution and generating high-quality samples. Efficient sampling for this class of models has however remained an elusive problem. With a focus on text-to-speech synthesis, we describe a set of general techniques for reducing sampling time while maintaining high output quality.
+    Machine learning has had a huge impact on consumer electronics devices, including IoT, mobile and automotive.  However, all these compute platforms are battery powered, which makes it challenging to use state-of-the-art machine learning models which typically demand an enormous number of arithmetic operations and a large memory footprint.
+
+    <br /><br />
+    In this talk, we will explore techniques for designing neural networks for energy-efficient inference on resource constrained devices.  In particular, we will emphasize the co-design of model and hardware, as a key approach to achieving state-of-the-art performance for real-time, energy-constrained inference applications on microcontrollers and mobile chips.
 	</div>
-	</button>
 
-<div class="tocollapse">
-		We first describe a single-layer recurrent neural network, the WaveRNN, with a dual softmax layer that matches the quality of the state-of-the-art WaveNet model. The compact form of the network makes it possible to generate 24kHz 16-bit audio 4x faster than real time on a GPU. Second, we apply a weight pruning technique to reduce the number of weights in the WaveRNN.
-		<br /><br />
-		We find that, for a constant number of parameters, large sparse networks perform better than small dense networks and this relationship holds for sparsity levels beyond 96%. The small number of weights in a Sparse WaveRNN makes it possible to sample high-fidelity audio on a mobile CPU in real time. Finally, we propose a new generation scheme based on subscaling that folds a long sequence into a batch of shorter sequences and allows one to generate multiple samples at once. The Subscale WaveRNN produces 16 samples per step without loss of quality and offers an orthogonal method for increasing sampling efficiency.
 
-  </div>
 
-<br />
+<br /><br />
 <div class="bio">
 	<span class="bio_title"> Bio </span>
 	<hr>
 	<div class="bio_context">
-		Erich Elsen is a Research Scientist at Google Brain where he collaborates with the Magenta team and DeepMind.  He is generally interested in auto-regressive models, sparse neural networks, optimization, generative models (especially of music) and hardware.  Recently he combined those interests to enable extremely efficient WaveNet quality Text-to-Speech with sparse WaveRNNs.  He also created the world's best piano transcription model Onsets and Frames.  Prior to joining Google he developed the DeepSpeech and DeepSpeech 2 speech transcription systems at Baidu's Silicon Valley AI Lab.  A long time ago he graduated with a PhD in Mechanical Engineering from Stanford in 2009.
+    Paul Whatmough received the Doctorate degree from University College London, UK.
+    He was previously with Philips, NXP, Arm, and Harvard, working in the areas of ML, DSP, wireless, accelerators, and circuits.
+    Currently, he leads research at Arm ML Research Lab Boston, and is an Associate at Harvard.
 	</div>
 </div>
 </div>
+
+<div>
+
+<br /> <br /> <br />
+        <div style="width:20%; float:left">
+			<img src="../assets/img/rikard.jpg" alt="Rikard König" style="width:100%; margin-bottom: 20px; padding-left: 0px">
+		</div>
+		<div>
+            <div class="speaker_name_inkeynote"><a id="rikard"></a>Rikard König</div>
+            <div class="speaker_aff_inkeynote">Ekkono Solutions</div>
+        </div>
+    </div>
+
+ <div style="clear:left;">
+<div class="keynote_title">Edge Machine Learning in Practice</div>
+
+<!-- <button class="collapsible">Abstract -->
+	<hr>
+	<div class="abstract_context">
+  This talk will focus on challenges and opportunities when applying machine learning on edge devices. More specifically the talk will follow the journey and experiences from founding a company based on a research prototype, refining it to a real product and applying it to real world edge machine learning problems.
+  <br /><br />
+  The talk will draw upon experiences from numerous IoT projects performed during the last two years. Opportunities and challenges will be discussed in relation to implementation and algorithmic related requirements. A specific focus will be on incremental learning techniques since these has shown to be well suited for edge analytics.
+
+
+
+	</div>
+
+
+<br /> <br />
+
+<div class="bio">
+	<span class="bio_title"> Bio </span>
+	<hr>
+
+<!-- <span class="bio_title">  </span> -->
+<div class="bio_context">
+Rikard König, PhD, is co-founder and CTO at Ekkono Solutions and Senior Lecturer at the University of Borås, Sweden. At the University of Borås he is a member of CSL@BS, a research group of ten researchers specializing in machine learning and high-performance computing. The focus of his research is design of new or enhanced machine learning algorithms.
+<br /> <br />
+In December 2016, he co-founded Ekkono Solutions together we three other partners, based on the outcome of his research. Ekkono provides a resource efficient solution that can run most applicable machine learning techniques on small platforms, i.e. an edge computing platform for connected things. Today the company have grown to 17 employees and targets large industrial companies and have customers such as Siemens, Volvo, ABB and Alfa Laval.
+
+</div>
+
+</div>
+
 
 
 

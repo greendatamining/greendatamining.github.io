@@ -2,32 +2,22 @@
 layout: page
 title: Submission
 permalink: /submission/
-feature-img: "assets/img/workshop/wurzburg.jpg"
+feature-img: "assets/img/workshop/green3.jpg"
 ---
 
 <h1 style="text-align: center">Submission</h1>
+## Proceedings
+**All accepted papers (except for extended abstracts) will be published in ECML-PKDD 2019 Workshop proceedings.**
 
-
-There are two types of invited submissions:
+## Submission
+There are **three** types of invited submissions:
 
 * Full paper: limited to 16 pages (including references)
 * Short or position paper: Short papers and position papers are limited to 6 pages (including references)
-* Deadline for submission: **Friday, June 7, 2019**
+* Extended abstracts: limited to 4 pages. Extended abstracts will not be considered for publication in the workshop proceedings.
+* Deadline for submission: **Monday, July 1, 2019**
 
-
-## Submission Process
-Electronic submissions will be handled via Microsoft CMT: <a href="https://cmt3.research.microsoft.com/GDM2018">https://cmt3.research.microsoft.com/GDM2018
-
-To submit a paper:
-
- * Create an account and Log in to conference CMT submission site.
-Please note that user accounts in each CMT conference are independent of other conferences,
-so you will need to create a new account.
- * Create a New Paper submission.
- * Complete the submission form by providing title, authors, one primary subject area,
-any number of secondary subject areas and a short abstract. The manuscript must be uploaded in pdf format.
-
-Before completing the submission, please make sure you have specified all your conflicts of interest.
+Electronic submissions will be handled via EasyChair: <a href="https://easychair.org/conferences/?conf=greendatamining2019">https://easychair.org/conferences/?conf=greendatamining2019
 
 ## Paper Format
 Papers must be written in English and formatted according to the Springer LNCS guidelines.

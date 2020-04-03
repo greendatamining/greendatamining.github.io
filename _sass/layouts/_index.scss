@@ -127,8 +127,11 @@ body{
 .bio_context{
     padding-left: 12px;
     padding-top: 0px;
+    font-weight: normal;
+    font-weight: normal;
+
 }
-    
+
 @media screen and (max-width: 768px) {
     div.index_keynote {
         width:100%;
@@ -141,9 +144,10 @@ body{
     }
     .feature-image header {
         min-height: 150px;
+        display: none;
     }
     h1{
-        font-size: 1.3em;
+        font-size: 1.5em;
     }
 
     div.index_keynote h3 {
@@ -159,6 +163,11 @@ body{
     }
     .collapsible:after {
     margin-top: 25px;
+    }
+
+    .site-header {
+        background: #f6f6f6!important;
+        border-bottom: 1px solid #eee;
     }
 }
 
@@ -179,8 +188,8 @@ body{
     /* --- Responsive --- */
     @media screen and (max-width: 850px) {
         background-size: 100% auto;
-    } 
-    
+    }
+
     //For white images
     p,
     a,

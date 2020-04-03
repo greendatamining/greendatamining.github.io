@@ -12,7 +12,7 @@ September 10-14, 2018 - Dublin, Ireland </strong></span></br><br />
 <br />
 This workshop aims to bring together people from different areas and 
 backgrounds in data mining and machine learning that have a common 
-interest in energy efficiency, sustainability, and edge computing.<br />
+interest in energy <strong>efficiency</strong>, <strong>sustainability</strong>, and <strong>edge computing</strong>.<br />
 <br />
 For the past years, the main concern in machine learning had been to 
 create highly accurate models, without considering the high computational 

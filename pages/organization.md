@@ -2,7 +2,7 @@
 layout: page
 title: Organization
 permalink: /organization/
-feature-img: "assets/img/workshop/wurzburg.jpg"
+feature-img: "assets/img/workshop/green3.jpg"
 ---
 
 <h1 style="text-align: center">Organization</h1>
@@ -53,6 +53,7 @@ Sapienza University of Rome
 &nbsp;&nbsp;&nbsp; **Elena Tsiporkova**, Sirris  
 
 ## Web and Social Media Chair
-&nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
+&nbsp;&nbsp;&nbsp; **Sylvie Pabion Martin**, Motorpress Ibérica  
 &nbsp;&nbsp;&nbsp; **Ruben Díaz**, Motorpress Ibérica  
+&nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Eva García-Martín** Blekinge Institute of Technology
