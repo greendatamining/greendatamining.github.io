@@ -22,10 +22,18 @@ feature-img: "assets/img/workshop/green3.jpg"
   		<h3>KEYNOTE SPEAKERS</h3>
     </div>
 
-	   TBA
+	<div style="float:left; width: 100%">
+    <div style="width:50%; float:left">
+        <img src="assets/img/pete_warden.png" alt="Peter Warden" style="width:100%; padding-left: 0px">
+    </div>
+    <div>
+        <!-- <div class="speaker_name">Peter Warden</div> -->
+        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#morik">Peter Warden</a></div>
+        <div class="speaker_aff">Google</div>
+    </div>
 
   </div>
-
+</div>
 
 	<div class="index_content">
   <br />
@@ -59,7 +67,7 @@ learning from a broader perspective.<br />
 	We accept original work, already completed, or in progress.
 	Position papers are also considered.
   <br /><br />
-  <strong>Accepted papers (except for extended abstracts) will be published in ECML-PKDD 2019 Workshop proceedings.</strong>
+  <strong>Accepted papers will be published in ECML-PKDD 2020 Workshop proceedings.</strong>
 
 
 
