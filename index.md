@@ -104,7 +104,7 @@ learning from a broader perspective.<br />
 <br />
 
 	We accept original work, already completed, or in progress.
-	Position papers and extended abstracts are also considered.
+	Short papers and position papers are also considered.
   <br /><br />
   <strong>Accepted papers (except for extended abstracts) will be published in ECML-PKDD 2019 Workshop proceedings.</strong>
 
@@ -114,10 +114,10 @@ learning from a broader perspective.<br />
 
 	<h3> Key Dates </h3>
 	<ul>
-	 <li> Workshop paper submission deadline:  <strong> Monday, July 1, 2019 </strong></li>
-	 <li> Workshop paper acceptance notification:  Friday, July 19, 2019</li>
-	 <li> Workshop paper camera-ready deadline:  Monday, July 26, 2019</li>
-	 <li> Workshop date: Friday, September 16, 2019 </li>
+	 <li> Workshop paper submission deadline:  <strong> Tuesday, June 9, 2020 </strong></li>
+	 <li> Workshop paper acceptance notification:  Monday, July 20, 2020</li>
+	 <li> Workshop paper camera-ready deadline:  Monday, August 3, 2020</li>
+	 <li> Workshop date: Monday, September 14, 2020 (preliminary) </li>
 	</ul>
 	All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
@@ -132,17 +132,15 @@ learning from a broader perspective.<br />
 
 	<h3> Steering Committee</h3>
 	   <ul>
-		<li> Ricardo Baeza-Yates, NTENT</li>
-    <li> Christian Nordahl,  Blekinge Institute of Technology</li>
-    <li> Veselka Boeva,  Blekinge Institute of Technology</li>
-    <li> Elena Tsiporkova, Sirris (Collective Center for the Belgian technological industry) </li>
-    <li> Niklas Lavesson, Jönköping University </li>
-		<li> Håkan Grahn, Blekinge Institute of Technology</li>
-		<li> Emiliano Casalicchio, Sapienza University of Rome</li>
+		<li> Ricardo Baeza-Yates, NTENT and Universitat Pompeu Fabra </li>
+    <li> Christian Nordahl,  Blekinge Institute of Technology </li>
+		<li> Håkan Grahn, Blekinge Institute of Technology </li>
+    <li> Rikard König, Ekkono Solutions </li>
+    <li> Henrik Linusson, Ekkono Solutions </li>
 	</ul>
 
   <h3>Program Committee</h3>
-  Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Emiliano Casalicchio, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues, Elena Tsiporkova
+  Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues
 
 
   <!-- </div> -->
