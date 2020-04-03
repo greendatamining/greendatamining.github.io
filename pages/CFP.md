@@ -66,4 +66,4 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 * Henrik Linusson, Ekkono Solutions
 
 ## Program Committee
-Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Niklas Lavesson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues
+Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Rikard König, Niklas Lavesson, Henrik Linusson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues

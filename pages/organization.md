@@ -37,7 +37,9 @@ Blekinge Institute of Technology
 &nbsp;&nbsp;&nbsp; **Ana Freire**, Universitat Pompeu Fabra  
 &nbsp;&nbsp;&nbsp; **Eva García-Martín**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Håkan Grahn**, Blekinge Institute of Technology  
+&nbsp;&nbsp;&nbsp; **Rikard König**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Niklas Lavesson**, Jönköping University  
+&nbsp;&nbsp;&nbsp; **Henrik Linusson**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Nuno Moniz,** University of Porto  
 &nbsp;&nbsp;&nbsp; **Isabelle Moulinier**, Capital One  
 &nbsp;&nbsp;&nbsp; **Heitor Murilo Gomes**, Telecom-ParisTech   
@@ -45,7 +47,7 @@ Blekinge Institute of Technology
 &nbsp;&nbsp;&nbsp; **Crefeda Faviola Rodrigues**,  University of Manchester  
 
 ## Web and Social Media Chair
+&nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Sylvie Pabion Martin**, Motorpress Ibérica  
 &nbsp;&nbsp;&nbsp; **Ruben Díaz**, Motorpress Ibérica  
-&nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Eva García-Martín**, Ekkono Solutions

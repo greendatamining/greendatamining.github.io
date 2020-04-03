@@ -14,7 +14,7 @@ There are **two** types of invited submissions:
 
 * Full paper: limited to 16 pages (including references)
 * Short or position paper: Short papers and position papers are limited to 6 pages (including references)
-* Deadline for submission: **Tuesday, July 9, 2020**
+* Deadline for submission: **Tuesday, June 9, 2020**
 
 
 Electronic submissions will be handled via EasyChair: TBA
