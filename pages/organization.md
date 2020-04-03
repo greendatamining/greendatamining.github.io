@@ -48,4 +48,4 @@ Blekinge Institute of Technology
 &nbsp;&nbsp;&nbsp; **Sylvie Pabion Martin**, Motorpress Ibérica  
 &nbsp;&nbsp;&nbsp; **Ruben Díaz**, Motorpress Ibérica  
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Eva García-Martín** Blekinge Institute of Technology
+&nbsp;&nbsp;&nbsp; **Eva García-Martín**, Ekkono Solutions
