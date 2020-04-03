@@ -22,7 +22,44 @@ feature-img: "assets/img/workshop/green3.jpg"
   		<h3>KEYNOTE SPEAKERS</h3>
     </div>
 
-	   TBA
+	<!-- Nicola -->
+
+	<div style="float:left; width: 100%">
+    <div style="width:50%; float:left">
+        <img src="assets/img/KatharinaMorik.png" alt="Katharina Morik" style="width:100%; padding-left: 0px">
+    </div>
+    <div>
+        <!-- <div class="speaker_name">Katharina Morik</div> -->
+        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#morik">Katharina Morik</a></div>
+        <div class="speaker_aff">TU Dortmund University</div>
+    </div>
+</div>
+
+<div style="float:left; width: 100%; margin-top: 20px;">
+    <div style="width:50%; float:left">
+        <img src="assets/img/PaulWhatmough.jpg" alt="Paul Whatmough" style="width:100%; padding-left: 0px;">
+    </div>
+    <div>
+        <div class="speaker_name">
+            <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a>
+            <!-- <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a> -->
+        </div>
+        <div class="speaker_aff">Arm ML Research Lab and Harvard University</div>
+    </div>
+</div>
+
+<div style="float:left; width: 100%; margin-top: 20px;">
+    <div style="width:50%; float:left">
+        <img src="assets/img/rikard.jpg" alt="Rikard König" style="width:100%; padding-left: 0px;">
+    </div>
+    <div>
+        <div class="speaker_name">
+            <a href="https://greendatamining.github.io/keynote/#rikard">Rikard König</a>
+            <!-- <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a> -->
+        </div>
+        <div class="speaker_aff">Ekkono Solutions</div>
+    </div>
+</div>
 
 
 	<!-- Erich -->
