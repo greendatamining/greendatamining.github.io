@@ -7,7 +7,7 @@ feature-img: "assets/img/workshop/green3.jpg"
 ---
 <h1 style="text-align: center">Third International Workshop on Energy Efficient Scalable Data Mining and Machine Learning</h1>
 
- <p style="text-align:center; font-weight:bold">Co-located with <a href="http://www.ecmlpkdd2020.org/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2020</span></a> <br />
+ <p style="text-align:center; font-weight:bold">Co-located with <a href="http://www.ecmlpkdd2020.net/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2020</span></a> <br />
 	September 14, 2020 - Ghent, Belgium <br />
 
 
