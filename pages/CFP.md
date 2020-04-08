@@ -29,6 +29,7 @@ We accept original work, already completed, or in progress. Position papers also
 Topics of interest include, but are not limited to:
 
 * Scalable Machine Learning
+* Energy-efficient Deep Learning
 * Energy-efficient model training, and inference
 * Energy-efficient Data Mining
 * Performance and Energy Benchmarking for Machine Learning Systems
