@@ -13,7 +13,7 @@ feature-img: "assets/img/workshop/green3.jpg"
 <span style="font-family:courier; color:#10872F">&nbsp;eva[at]ekkono.ai</span> (main contact)   
 &nbsp;&nbsp;&nbsp;**Albert Bifet**, Telecom-ParisTech  
 &nbsp;&nbsp;&nbsp;**Crefeda Faviola Rodrigues**,  University of Manchester  
-&nbsp;&nbsp;&nbsp;**Heitor Murilo Gomes**, Telecom-ParisTech  
+&nbsp;&nbsp;&nbsp;**Heitor Murilo Gomes**, University of Waikato  
 
 
 ## Steering Committee
@@ -26,6 +26,7 @@ NTENT
 Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Rikard König**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Henrik Linusson**, Ekkono Solutions  
+&nbsp;&nbsp;&nbsp; **Ivar Simonsson**, Ekkono Solutions  
 
 ## Program Committee
 
@@ -45,6 +46,8 @@ Blekinge Institute of Technology
 &nbsp;&nbsp;&nbsp; **Heitor Murilo Gomes**, Telecom-ParisTech   
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Crefeda Faviola Rodrigues**,  University of Manchester  
+&nbsp;&nbsp;&nbsp; **Ivar Simonsson**,  Ekkono Solutions  
+
 
 ## Web and Social Media Chair
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  

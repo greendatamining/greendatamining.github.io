@@ -88,7 +88,7 @@ learning from a broader perspective.<br />
 		<li> Eva García-Martín, Ekkono Solutions</li>
 		<li> Albert Bifet, Telecom-ParisTech</li>
     <li> Crefeda Faviola Rodrigues, University of Manchester  </li>
-		<li> Heitor Murilo Gomes, Telecom-ParisTech</li>
+		<li> Heitor Murilo Gomes, University of Waikato</li>
 	   </ul>
 
 	<h3> Steering Committee</h3>
@@ -98,10 +98,11 @@ learning from a broader perspective.<br />
 		<li> Håkan Grahn, Blekinge Institute of Technology </li>
     <li> Rikard König, Ekkono Solutions </li>
     <li> Henrik Linusson, Ekkono Solutions </li>
+    <li> Ivar Simonsson, Ekkono Solutions </li>
 	</ul>
 
   <h3>Program Committee</h3>
-  Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Rikard König, Niklas Lavesson, Henrik Linusson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues
+  Shahrooz Abghari, Ricardo Baeza-Yates, Albert Bifet, Veselka Boeva, Pierre Dagnely, Ana Freire, Eva García-Martín, Håkan Grahn, Rikard König, Niklas Lavesson, Henrik Linusson, Nuno Moniz, Isabelle Moulinier, Heitor Murilo Gomes, Christian Nordahl, Crefeda Faviola Rodrigues, Ivar Simonsson
 
 
   <!-- </div> -->
