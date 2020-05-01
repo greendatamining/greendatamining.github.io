@@ -17,7 +17,7 @@ There are **two** types of invited submissions:
 * Deadline for submission: **Tuesday, June 9, 2020**
 
 
-Electronic submissions will be handled via EasyChair: TBA
+Electronic submissions will be handled via EasyChair: <a href="https://easychair.org/conferences/?conf=greendatamining2020"> https://easychair.org/conferences/?conf=greendatamining2020
 
 ## Paper Format
 Papers must be written in English and formatted according to the Springer LNCS guidelines.
