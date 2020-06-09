@@ -24,11 +24,11 @@ feature-img: "assets/img/workshop/green3.jpg"
 
 	<div style="float:left; width: 100%">
     <div style="width:50%; float:left">
-        <img src="assets/img/pete_warden.png" alt="Peter Warden" style="width:100%; padding-left: 0px">
+        <img src="assets/img/pete_warden.png" alt="Pete Warden" style="width:100%; padding-left: 0px">
     </div>
     <div>
-        <!-- <div class="speaker_name">Peter Warden</div> -->
-        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#morik">Peter Warden</a></div>
+        <!-- <div class="speaker_name">Pete Warden</div> -->
+        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#morik">Pete Warden</a></div>
         <div class="speaker_aff">Google</div>
     </div>
 
@@ -75,7 +75,7 @@ learning from a broader perspective.<br />
 
 	<h3> Key Dates </h3>
 	<ul>
-	 <li> Paper submission deadline:  <strong> Tuesday, June 9, 2020 </strong></li>
+	 <li> Paper submission deadline:  <strike> June 9, 2020</strike> <strong> Tuesday, June 23, 2020</strong></li>
 	 <li> Paper acceptance notification:  Monday, July 20, 2020</li>
 	 <li> Paper camera-ready deadline:  Monday, August 3, 2020</li>
 	 <li> Workshop date: Monday, September 14, 2020 (preliminary) </li>
@@ -87,7 +87,7 @@ learning from a broader perspective.<br />
 	   <ul>
 		<li> Eva García-Martín, Ekkono Solutions</li>
 		<li> Albert Bifet, Telecom-ParisTech</li>
-    <li> Crefeda Faviola Rodrigues, University of Manchester  </li>
+    <li> Crefeda Faviola Rodrigues, Arm  </li>
 		<li> Heitor Murilo Gomes, University of Waikato</li>
 	   </ul>
 

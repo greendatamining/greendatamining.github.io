@@ -12,7 +12,7 @@ feature-img: "assets/img/workshop/green3.jpg"
 &nbsp;&nbsp;&nbsp;**Eva García-Martín**, Ekkono Solutions
 <span style="font-family:courier; color:#10872F">&nbsp;eva[at]ekkono.ai</span> (main contact)   
 &nbsp;&nbsp;&nbsp;**Albert Bifet**, Telecom-ParisTech  
-&nbsp;&nbsp;&nbsp;**Crefeda Faviola Rodrigues**,  University of Manchester  
+&nbsp;&nbsp;&nbsp;**Crefeda Faviola Rodrigues**,  Arm 
 &nbsp;&nbsp;&nbsp;**Heitor Murilo Gomes**, University of Waikato  
 
 
@@ -43,9 +43,9 @@ Blekinge Institute of Technology
 &nbsp;&nbsp;&nbsp; **Henrik Linusson**, Ekkono Solutions  
 &nbsp;&nbsp;&nbsp; **Nuno Moniz,** University of Porto  
 &nbsp;&nbsp;&nbsp; **Isabelle Moulinier**, Capital One  
-&nbsp;&nbsp;&nbsp; **Heitor Murilo Gomes**, Telecom-ParisTech   
+&nbsp;&nbsp;&nbsp; **Heitor Murilo Gomes**, University of Waikato  
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
-&nbsp;&nbsp;&nbsp; **Crefeda Faviola Rodrigues**,  University of Manchester  
+&nbsp;&nbsp;&nbsp; **Crefeda Faviola Rodrigues**,  Arm
 &nbsp;&nbsp;&nbsp; **Ivar Simonsson**,  Ekkono Solutions  
 
 

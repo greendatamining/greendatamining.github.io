@@ -45,7 +45,7 @@ Topics of interest include, but are not limited to:
 
 ##  Key Dates
 
-* Paper submission deadline: <strong> Tuesday, July 9, 2020 </strong>
+* Paper submission deadline: <strike> June 9, 2020</strike> <strong> Tuesday, June 23, 2020</strong>
 * Paper acceptance notification: Monday, July 20, 2020
 * Paper camera-ready deadline: Monday, August 3, 2020
 
@@ -55,8 +55,8 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
 * Eva García-Martín, Ekkono Solutions
 * Albert Bifet, Telecom-ParisTech
-* Crefeda Faviola Rodrigues, University of Manchester
-* Heitor Murilo Gomes, Telecom-ParisTech
+* Crefeda Faviola Rodrigues, Arm
+* Heitor Murilo Gomes, University of Waikato
 
 ## Steering Committee
 
