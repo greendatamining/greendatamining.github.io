@@ -17,6 +17,10 @@ html {
     background: $background-color;
 }
 
+.box{
+    border: 1px solid green;
+}
+
 // Typography
 ::selection {
     background: $selection-color;
@@ -112,7 +116,9 @@ ul,
 dl,
 .math-display {
     line-height: 1.5;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+
 }
 
 // KaTeX math display

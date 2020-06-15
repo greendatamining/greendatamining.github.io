@@ -9,10 +9,11 @@ feature-img: "assets/img/workshop/green3.jpg"
 
  <p style="text-align:center; font-weight:bold">Co-located with <a href="http://www.ecmlpkdd2020.net/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2020</span></a> <br />
 	September 14, 2020 - Ghent, Belgium <br />
-
-
 </p>
-
+<div class="box">
+ <p style="text-align:center; font-weight:bold">COVID-19 News: The workshop will follow ECML-PKDD's recommendations regarding having a virtual or physical event. In case of an online event, we will make sure to create an adequate virtual space for all presentations, keynotes, and Q&A. <br />
+</p>
+</div>
 
 
 <div class="index_main">
